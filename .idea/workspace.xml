@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a27fefc-afdb-4d92-a2e2-8e36925878da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WT32CK0iG4Wl1NT2zgtYDp5SWK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SpringMVCCRUDSimple" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.MysqlCon">
+    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPattern" />
+      <module name="Testing_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlCon" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MysqlCon" />
+      <module name="Testing_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student" />
+      <module name="Testing_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuilderPattern" />
+        <item itemvalue="Application.student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a27fefc-afdb-4d92-a2e2-8e36925878da" name="Default Changelist" comment="" />
+      <created>1579159548031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579159548031</updated>
+      <workItem from="1579159560638" duration="7557000" />
+      <workItem from="1579197120111" duration="4860000" />
+      <workItem from="1579237963987" duration="3816000" />
+      <workItem from="1579245184835" duration="2003000" />
+      <workItem from="1579254456014" duration="6184000" />
+      <workItem from="1579262036651" duration="2283000" />
+      <workItem from="1579497923861" duration="1299000" />
+      <workItem from="1579550476296" duration="438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579246288911">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="292" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1579246288911" />
+    <state x="505" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1579203182557">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="505" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1579203182557" />
+    <state x="480" y="127" key="FileChooserDialogImpl" timestamp="1579165559350">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="480" y="127" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579165559350" />
+    <state width="1286" height="326" key="GridCell.Tab.0.bottom" timestamp="1579261071472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="326" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579261071472" />
+    <state width="1286" height="326" key="GridCell.Tab.0.center" timestamp="1579261071472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="326" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579261071472" />
+    <state width="1286" height="326" key="GridCell.Tab.0.left" timestamp="1579261071472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="326" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579261071472" />
+    <state width="1286" height="326" key="GridCell.Tab.0.right" timestamp="1579261071472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="326" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579261071472" />
+    <state x="201" y="0" key="SettingsEditor" timestamp="1579160865769">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="201" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579160865769" />
+    <state x="395" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1579550482122">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="395" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579550482122" />
+    <state x="82" y="63" key="new project wizard" timestamp="1579202609568">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="82" y="63" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1579202609568" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579160293244">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1579160293244" />
+  </component>
+</project>
