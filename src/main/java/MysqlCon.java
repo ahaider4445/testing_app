@@ -49,7 +49,7 @@ public class MysqlCon {
                 int rowAffected = pstmt.executeUpdate();
                 if (rowAffected==1)
                 {
-                    System.out.println("Row Affected...!!");
+                    System.out.println("Rows Affected...!!");
                 }
             }
             else if (choice==2)
